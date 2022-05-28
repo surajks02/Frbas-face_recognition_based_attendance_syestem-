@@ -10,12 +10,16 @@ Taking Attendance (Face Recognition)
 Requirements to run this project
 OpenCV
 >pip install OpenCV-python
+
 Numpy
 >pip install numpy
+
 Pandas
 >pip install pandas
+
 Os
 >pip install os
+
 Tkinter
 >pip install tkinter
 
